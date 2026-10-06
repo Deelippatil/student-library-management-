@@ -24,7 +24,7 @@ export function App() {
             }}
           >
             <div style={{ maxWidth: 'var(--max-width)', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
-              <span>Student Library Management System (SLMS) &copy; 2026</span>
+              <span>Tulasi Library Management System &copy; 2026</span>
               <span>Modern Monochrome UI &bull; Strict Role Separation</span>
             </div>
           </footer>

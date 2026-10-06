@@ -67,7 +67,7 @@ export const Navbar = () => {
                 borderRadius: '2px',
               }}
             ></span>
-            SLMS
+            Tulasi
           </Link>
         </div>
 
